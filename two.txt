@@ -6,3 +6,4 @@ changed
 confirming the changes
 
 chaged again
+after merging changes made
